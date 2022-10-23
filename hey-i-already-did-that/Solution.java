@@ -4,6 +4,7 @@ import java.util.Arrays;
 class Solution {
       public static int solution(String n, int b) {
         ArrayList<String> listOfIDs = new ArrayList<>();
+        listOfIDs.add(n);
         int result = 0;
         boolean algoIsCorrect = true;
         String x, y, z;
