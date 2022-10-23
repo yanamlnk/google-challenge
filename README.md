@@ -4,6 +4,8 @@ To be completely honest, I haven't done everything by myself, I have used help f
 
 *For each of the task, I have provided an explanation on what algorithm or formula I have used - so to speak **"no spoilers"** solution. Also, I have provided **Java code** (except the first task, because unfortunately I have deleted the code I used).*
 
+<sub>**later-patches branch** is for some changes to the code that were done AFTER I have submitted the solution. The code I used for submission is in **main branch**.</sub>
+
 ## Challenges
 I have noticed that participants got different tasks on some stages. Here is my list:
 
