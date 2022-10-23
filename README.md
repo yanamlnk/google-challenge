@@ -11,4 +11,4 @@ I got a chance to participate in Google foo.bar challenge. This was really excit
 
 *Third-party libraries, input/output operations, spawning threads or processes and changes to the execution environment are not allowed.*
 
-*Your solution must be under 32000 characters in length including new lines and and other non-printing characters."*
+Your solution must be under 32000 characters in length including new lines and and other non-printing characters."
