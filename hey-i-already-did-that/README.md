@@ -1,4 +1,4 @@
-# Decription
+# Description
 
 Commander Lambda uses an automated algorithm to assign minions randomly to tasks, in order to keep her minions on their toes. But you've noticed a flaw in the algorithm - it eventually loops back on itself, so that instead of assigning new minions as it iterates, it gets stuck in a cycle of values so that the same minions end up doing the same tasks over and over again. You think proving this to Commander Lambda will help you make a case for your next promotion.
 
@@ -29,10 +29,12 @@ Oputput:
 3
 ```
 
+
 # Explanation
 If you are the same as me, and forgot about what different bases of the number are, you can first check this [short article](https://math.libretexts.org/Courses/Mount_Royal_University/MATH_2150%3A_Higher_Arithmetic/7%3A_Number_systems/7.2%3A_Number_Bases).
 
-So basically once in a time, the algorithm goes to repetition. You need to return the length of repeating cycle. 
+So basically once in a time, the algorithm reaches the point where it repeats itself. You need to return the length of repeating cycle. 
+
 
 # Solution
 I decided to be straightforward here. First you need to get to the repeating cycle as per algorithm given in the task, then you can get its length.
@@ -41,9 +43,10 @@ So the soluting can be divided into 2 parts:
 1. Performing the algorithm
 2. Catching the repeating cycle in the process
 
+
 ### 1. Performing the algorithm
 
-The algorithm itself consists of several chunks of code, which I made into different methods:
+The algorithm itself consists of several chunks of code, which I divided into different methods:
 - **Ascending digits in the number**
 
 ``toCharArray() -> Arrays.sort()``
@@ -56,15 +59,23 @@ The algorithm itself consists of several chunks of code, which I made into diffe
 
 ``Integer.toString(Integer.parseInt(x, b) - Integer.parseInt(y, b), b)``
 
-- **Adding zeros to keep length** - create StringBuilder, add the amount of zeros you need (``n.length - z.length``), and add the newly created number from the previous step
+- **Adding zeros to keep the length** - create StringBuilder, add the amount of zeros you need (``n.length - z.length``), and add the newly created number from the previous step
 
 ``StringBuilder append("0") -> append("numberFromStepThree")``
 
+
 ### 2. Catching the repeating cycle in the process
 
-Firstly, don't forget to consider _"immediate return"_ cases:
+Firstly, don't forget to consider _"immediate return"_ cases (i.e. reaching constants):
 1. If ``z`` == 0 -> return ``1``
 2. If ``z`` == ``n`` -> return ``1``
 
 Now about catching repeating cycle.
+I have used ``ArrayList`` to store all newly created IDs. So once we get ``z``, I check if such number already exists in my list. 
+  - If yes -> the result is:
 
+``listOfIDs.size() - listOfIDs.indexOf(z)``
+
+  - else -> add new ``z`` to the list
+  
+  And so we loop here, until either we get duplicate or reach constant.
