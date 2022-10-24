@@ -13,8 +13,8 @@ I have noticed that participants got different tasks on some stages. Here is my 
 - Skipping Work
 
 **Second stage**
-- Hey! I Already Did That
-- Gearing Up For Destruction
+- [Hey! I Already Did That](https://github.com/yanamlnk/google-challenge/tree/main/hey-i-already-did-that)
+- [Gearing Up For Destruction](https://github.com/yanamlnk/google-challenge/tree/main/gearing-up-for-destruction)
 
 **Third stage**
 - Doomsday Fuel
