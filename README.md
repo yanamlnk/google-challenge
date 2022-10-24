@@ -10,7 +10,7 @@ To be completely honest, I haven't done everything by myself, I have used help f
 I have noticed that participants got different tasks on some stages. Here is my list:
 
 **First stage**
-- Skipping Work
+- [Skipping Work](https://github.com/yanamlnk/google-challenge/tree/main/skipping-work)
 
 **Second stage**
 - [Hey! I Already Did That](https://github.com/yanamlnk/google-challenge/tree/main/hey-i-already-did-that)
@@ -28,3 +28,4 @@ I have noticed that participants got different tasks on some stages. Here is my 
 > 3. Wildcard imports and some specific classes are restricted (e.g. java.lang.ClassLoader). You will receive an error when you verify your solution if you have used a blacklisted class.
 > 4. Third-party libraries, input/output operations, spawning threads or processes and changes to the execution environment are not allowed.
 > 5. Your solution must be under 32000 characters in length including new lines and and other non-printing characters.
+
