@@ -11,16 +11,12 @@ In each test case, the lists ``x`` and ``y`` will always contain ``n`` non-uniqu
 ### Test cases
 ```
 Input:
-
 Solution.solution({13, 5, 6, 2, 5}, {5, 2, 5, 13})
-
 Output:
 6
 
 Input:
-
 Solution.solution({14, 27, 1, 4, 2, 50, 3, 1}, {2, 4, -4, 3, 1, 1, 14, 27, 50})
-
 Output:
 4
 ```
