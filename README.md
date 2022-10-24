@@ -17,9 +17,9 @@ I have noticed that participants got different tasks on some stages. Here is my 
 - [Gearing Up For Destruction](https://github.com/yanamlnk/google-challenge/tree/main/gearing-up-for-destruction)
 
 **Third stage**
-- Doomsday Fuel
-- Bomb, Baby
-- Prepare the Bunnies' Escape
+- [Doomsday Fuel](https://github.com/yanamlnk/google-challenge/tree/main/doomsday-fuel)
+- [Bomb, Baby](https://github.com/yanamlnk/google-challenge/tree/main/bomb-baby)
+- [Prepare the Bunnies' Escape](https://github.com/yanamlnk/google-challenge/tree/main/prepare-the-bunnies-escape)
 
 
 ## Constraints provided by the challenge
