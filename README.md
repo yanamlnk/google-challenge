@@ -10,7 +10,7 @@ To be completely honest, I haven't done everything by myself, I have used help f
 I have noticed that participants got different tasks on some stages. Here is my list:
 
 **First stage**
-- Skipping Work
+- [Skipping Work](https://github.com/yanamlnk/google-challenge/tree/main/skipping-work)
 
 **Second stage**
 - [Hey! I Already Did That](https://github.com/yanamlnk/google-challenge/tree/main/hey-i-already-did-that)
