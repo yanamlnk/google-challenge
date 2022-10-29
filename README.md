@@ -22,7 +22,7 @@ I have noticed that participants got different tasks on some stages. Here is my 
 - [Prepare the Bunnies' Escape](https://github.com/yanamlnk/google-challenge/tree/main/prepare-the-bunnies-escape)
 
 **Forth stage**
-- [Running with Bunnies)[https://github.com/yanamlnk/google-challenge/tree/main/running-with-bunnies]
+- [Running with Bunnies](https://github.com/yanamlnk/google-challenge/tree/main/running-with-bunnies)
 
 
 ## Constraints provided by the challenge
