@@ -21,7 +21,7 @@ I have noticed that participants got different tasks on some stages. Here is my 
 - [Bomb, Baby](https://github.com/yanamlnk/google-challenge/tree/main/bomb-baby)
 - [Prepare the Bunnies' Escape](https://github.com/yanamlnk/google-challenge/tree/main/prepare-the-bunnies-escape)
 
-**Forth stage**
+**Fourth stage**
 - [Running with Bunnies](https://github.com/yanamlnk/google-challenge/tree/main/running-with-bunnies)
 
 
