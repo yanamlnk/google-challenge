@@ -38,3 +38,15 @@ I have noticed that participants got different tasks on some stages. Here is my 
 > 4. Third-party libraries, input/output operations, spawning threads or processes and changes to the execution environment are not allowed.
 > 5. Your solution must be under 32000 characters in length including new lines and and other non-printing characters.
 
+## Special thanks
+
+I also want to thank all other participants who posted their code/solutions/tips online. In the moments when I was completely stuck and about to start crying, those solutions helped me a lot to keep moving forward. I am a total beginner in CS and programming (still wondering how in the world I got invitation from Google with my current knowledge :D), but I decided that even if I don't know algorithms, some data structures or formulas, it is better to look up solution, learn about used algorithm in detail and then use it, too, in my own code (I've never fully copy-pasted the code, but I did use it for a reference). After all, this challenge turned out to be a huge knowledge booster. 
+
+Code and solutions I have used as reference:
+- **pratickRoy's** [code](https://github.com/pratickRoy/foobar/blob/master/src/main/java/clean/level2/GearingUpForDestruction.java) and [article](https://pratickroy.medium.com/my-google-foobar-journey-6e46034b835f) for Gearing Up for Destruction level. 
+- **ivanseed's** [README.md](https://github.com/ivanseed/google-foobar-help/blob/master/challenges/doomsday_fuel/doomsday_fuel.md) for Doomsday Fuel challenge.
+- **ivanseed's** [README.md](https://github.com/ivanseed/google-foobar-help/blob/master/challenges/bomb_baby/bomb_baby.md) for Bomb, Baby challenge.
+- **Bajru's** question and immediate [answer](https://cs.stackexchange.com/questions/129602/google-foobar-level-4-graph-problem) for Running with Bunnies challenge.
+- **Peter-AK's** [explanation](https://peter-ak.github.io/2020/05/10/Brining_a_gun_to_a_guard_fight.html) and **aurasphere's** [code](https://github.com/aurasphere/google-foobar-challenge/blob/master/Level%204/4.2%20Bringing%20a%20Gun%20to%20a%20Guard%20Fight/Solution.java) for Bringing a Gun to a Trainer Fight challenge (_for some reason this challenge is my least favourite_).
+- **Chris'** [article](https://medium.com/@chris.bell_/google-foobar-as-a-non-developer-level-5-a3acbf3d962b) for Disorderly Escape challenge.
+- **Shrey Shah's** [article](https://pages.cs.wisc.edu/~shrey/2020/08/10/google-foobar.html) for the last encryption task.
