@@ -28,7 +28,8 @@ I have noticed that participants got different tasks on some stages. Here is my 
 **Fifth stage**
 - [Disorderly Escape](https://github.com/yanamlnk/google-challenge/tree/main/disorderly-escape)
 
-**[The end :)](https://github.com/yanamlnk/google-challenge/tree/main/the-end)
+**The end :)**
+- [Final Message](https://github.com/yanamlnk/google-challenge/tree/main/the-end)
 
 ## Constraints provided by the challenge
 > 1. Your code will be compiled using standard Java 8. All tests will be run by calling the solution() method inside the Solution class
