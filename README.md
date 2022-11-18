@@ -23,7 +23,7 @@ I have noticed that participants got different tasks on some stages. Here is my 
 
 **Forth stage**
 - [Running with Bunnies](https://github.com/yanamlnk/google-challenge/tree/main/running-with-bunnies)
-
+- [Bringing a Gun to a Trainer Fight](https://github.com/yanamlnk/google-challenge/tree/main/bringing-a-gun-to-a-trainer-fight)
 
 ## Constraints provided by the challenge
 > 1. Your code will be compiled using standard Java 8. All tests will be run by calling the solution() method inside the Solution class
